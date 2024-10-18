@@ -14,7 +14,7 @@ This project creates a visually appealing hexagonal grid animation using HTML an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/hexagonal-grid-animation.git
+   git clone https://github.com/skmaurya05550/hexagonal-grid-animation.git
    cd hexagonal-grid-animation
 
 
