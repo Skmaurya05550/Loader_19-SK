@@ -1,5 +1,5 @@
-
 <h1>Project: Animated Hexagonal Grid</h1>
+
 
 <p>This project creates an animated hexagonal grid using HTML, CSS, and animations. The grid is made of multiple hexagonal bricks arranged in a socket structure with smooth transition animations and pulsing effects.</p>
 
