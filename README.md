@@ -19,7 +19,7 @@
 
 <h2>Installation</h2>
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/https://github.com/Skmaurya05550/Loader_19-SK</code></li>
+  <li>Clone the repository: https://github.com/Skmaurya05550/Loader_19-SK</code></li>
   <li>Navigate to the project directory: <code>cd project-directory</code></li>
   <li>Open the <code>index.html</code> file in a browser.</li>
 </ol>
