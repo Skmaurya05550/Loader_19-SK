@@ -1,5 +1,6 @@
 <h1>Project: Animated Hexagonal Grid</h1>
-![17292606269047552411603177474297](https://github.com/user-attachments/assets/041628d0-940c-4a3e-8bd8-7121545c53c3)
+
+(https://github.com/user-attachments/assets/041628d0-940c-4a3e-8bd8-7121545c53c3)
 
 
 <p>This project creates an animated hexagonal grid using HTML, CSS, and animations. The grid is made of multiple hexagonal bricks arranged in a socket structure with smooth transition animations and pulsing effects.</p>
